@@ -1,0 +1,43 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments and packaging
+.venv/
+.venv-*/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Coverage and test artifacts
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local exports and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+output/
+outputs/
+
+# LaTeX build artifacts (compiled PDFs may be tracked intentionally)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: >-
+  If you reference this repository or its published results in academic work,
+  please cite the repository.
+title: "Finite-Key BB84 QKD Simulator"
+type: software
+version: 1.0.3
+date-released: 2026-07-31
+abstract: >-
+  A reproducible educational Python simulator for the BB84 quantum key
+  distribution protocol, including intercept-resend analysis, detection-loss
+  models, and an illustrative finite-size key-length estimate.
+authors:
+  - family-names: "Lam"
+    given-names: "Thanh Dat"
+keywords:
+  - "BB84"
+  - "finite-key analysis"
+  - "quantum key distribution"
+  - "simulation"

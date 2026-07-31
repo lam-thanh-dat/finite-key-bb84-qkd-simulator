@@ -1,0 +1,15 @@
+# Exact input specification for the reproducibility lock.
+# Validated with CPython 3.12.13. NumPy 2.3.5 requires Python 3.11 or newer.
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.61.1
+kiwisolver==1.4.9
+matplotlib==3.10.8
+numpy==2.3.5
+packaging==26.2
+pillow==12.2.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+setuptools==82.0.1
+six==1.17.0
+wheel==0.47.0
